@@ -8,4 +8,4 @@ Here are three projects I'm particularly proud of:
 2. [rubato](https://github.com/rubatopy/rubato) (SDL2 game engine built for Python with Cython)
 3. [nur](https://github.com/tsedan/nur) (WebRTC peer-to-peer online brawler)
 
-I can be reached at [tsedan@proton.me](mailto:tsedan@proton.me).
+More information about me can be found on [my website](https://tsedan.github.io).
